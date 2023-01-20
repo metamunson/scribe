@@ -23,10 +23,10 @@ dependencies:
   - intel-openmp=2021.4.0=h06a4308_3561
   - ld_impl_linux-64=2.38=h1181459_1
   - libffi=3.4.2=h6a678d5_6
-  - libgcc-ng=11.2.0=h1234567_1
-  - libgomp=11.2.0=h1234567_1
+  - libgcc-ng
+  - libgomp
   - libprotobuf=3.20.1=h4ff587b_0
-  - libstdcxx-ng=11.2.0=h1234567_1
+  - libstdcxx-ng
   - libuuid=1.41.5=h5eee18b_0
   - magma=2.7.0=h8db6258_0
   - mkl=2021.4.0=h06a4308_640
